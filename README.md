@@ -15,8 +15,9 @@ Based on the statistical analysis for June and December reflected in the images 
 
 1. The mean temperature for June at 74.9, is 3.9 degrees higher than the mean temperature for December. Higher June temperatures are anticipated; however this difference is not so large to suggest having a significant impact on business.
 
-2. 
+2. The minimum temperatures shown have a larger difference: June at 64 versus December at 56. While a temperature of 56 would disway most people from venturing out for some surfing and ice cream, the data must be evaluated as a whole. 56 is the lowest point in the dataset, however reviewing some of the other statistical information indicates this is most likley an outlier.
 
+3. Comparing the percentile categories and maximum temperatures between June and December, there is only a two to four degree difference. This is another indication that the temperatures remain relatively moderate in Hawaii with only a small decline in the winter.
 
 
 
