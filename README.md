@@ -13,10 +13,6 @@ The following analysis was performed based off of weather data captured in the H
 
 ## Results:
 
-Example of link to png file
- ![Number of retirees by title](https://github.com/RebeccaA79/Pewlett-Hackard-Analysis/blob/d6f296c0c664760f714c9c43d510a887486ced40/Data/%23%20of%20retirees%20by%20title.png)
-
-
 There is a bulleted list that addresses the three key differences in weather between June and December.
 
 Based on the statistical analysis for June and December reflected in the images below, the following highlights are noted:
