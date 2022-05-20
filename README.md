@@ -17,12 +17,15 @@ Based on the statistical analysis for June and December reflected in the images 
 
 2. 
 
-3. 
-
-![June Summary Statistics](https://github.com/RebeccaA79/surfs_up/blob/main/resources/june_temps_summary_stats.png)
 
 
-![December Summary Statistics](https://github.com/RebeccaA79/surfs_up/blob/main/resources/dec_temps_summary_stats.png)
+
+  ![June Summary Statistics](https://github.com/RebeccaA79/surfs_up/blob/main/resources/june_temps_summary_stats.png)
+  
+
+
+  ![December Summary Statistics](https://github.com/RebeccaA79/surfs_up/blob/main/resources/dec_temps_summary_stats.png)
+  
 
 
 ## Summary:
