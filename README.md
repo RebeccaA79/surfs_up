@@ -20,10 +20,12 @@ Based on the statistical analysis for June and December reflected in the images 
 3. Comparing the percentile categories and maximum temperatures between June and December, there is only a two to four degree difference. This is another indication that the temperatures remain relatively moderate in Hawaii with only a small decline in the winter.
 
 
+### June Summary Statistics:
 
   ![June Summary Statistics](https://github.com/RebeccaA79/surfs_up/blob/main/resources/june_temps_summary_stats.png)
   
 
+### December Summary Statistics:
 
   ![December Summary Statistics](https://github.com/RebeccaA79/surfs_up/blob/main/resources/dec_temps_summary_stats.png)
   
